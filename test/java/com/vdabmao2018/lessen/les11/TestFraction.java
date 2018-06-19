@@ -5,16 +5,16 @@ import org.junit.*;
 
 public class TestFraction {
 
-    @BeforeClass //deze methode wordt 1 keer uitgevoerd voor alle testen samen
-
-    @Before //wordt voor elke test uitgevoerd
-
-
-    @After // wordt na alle tests uitgevoerd
-
-     // ==> cycle: @Before, @Test(specifieke test), @AFter
-
-    @AfterClass // deze methode wordt na alle testen 1 keer uitgevoerd. after = na elke test. afterClass is na alle testen.
+ //   @BeforeClass //deze methode wordt 1 keer uitgevoerd voor alle testen samen
+ //
+ //   @Before //wordt voor elke test uitgevoerd
+ //
+ //
+ //   @After // wordt na alle tests uitgevoerd
+ //
+ //    // ==> cycle: @Before, @Test(specifieke test), @AFter
+ //
+ //   @AfterClass // deze methode wordt na alle testen 1 keer uitgevoerd. after = na elke test. afterClass is na alle testen.
 
     @Test
     public void correctSimplify(){
@@ -25,7 +25,7 @@ public class TestFraction {
 
     }
 
-    @Test
+    @Test   @Ignore
     public void testSimplifyBy3(){
         Fraction a = new Fraction(5, 45);
         Fraction b = a.simplify();
