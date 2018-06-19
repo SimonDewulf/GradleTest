@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.extraOefeningen;
+package com.vdabmao2018.extraOefeningen;
 
 public class CozaLozaWoza {
     public static void main(String[] args) {

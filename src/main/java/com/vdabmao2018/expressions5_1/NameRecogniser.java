@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.expressions5_1;
+package com.vdabmao2018.expressions5_1;
 
 import java.util.Scanner;
 

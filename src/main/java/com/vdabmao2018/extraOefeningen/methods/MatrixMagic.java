@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.extraOefeningen.methods;
+package com.vdabmao2018.extraOefeningen.methods;
 
 import java.util.Scanner;
 

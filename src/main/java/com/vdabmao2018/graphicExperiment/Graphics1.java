@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.graphicExperiment;
+package com.vdabmao2018.graphicExperiment;
 
 import javafx.application.Application;
 import javafx.scene.Group;

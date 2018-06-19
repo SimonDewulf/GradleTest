@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.iterations5_3;
+package com.vdabmao2018.iterations5_3;
 
 import java.util.Scanner;
 
