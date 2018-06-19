@@ -1,4 +1,4 @@
-package com.vdabmao2018.lessen.les11;
+package test.java.com.vdabmao2018.lessen.les11;
 
 import com.vdabmao2018.lessen.les11.Fraction;
 import org.junit.*;

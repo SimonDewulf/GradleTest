@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01553959-496d-4cbf-ac93-54a46c70a2a9" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GradleTest" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GradleTest" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GradleTest" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GradleTest" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TestPrimes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GradleTest/test/java/com/vdabmao2018/lessen/les11/TestPrimes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestFraction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GradleTest/test/java/com/vdabmao2018/lessen/les11/TestFraction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bank.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GradleTest/src/main/java/com/vdabmao2018/lessen/les1/Bank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fraction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GradleTest/src/main/java/com/vdabmao2018/lessen/les11/Fraction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1875">
+              <caret line="126" column="28" selection-start-line="126" selection-start-column="28" selection-end-line="126" selection-end-column="28" />
+              <folding>
+                <element signature="e#2515#2516#0" expanded="true" />
+                <element signature="e#2556#2557#0" expanded="true" />
+                <element signature="e#2592#2593#0" expanded="true" />
+                <element signature="e#2622#2623#0" expanded="true" />
+                <element signature="e#2651#2652#0" expanded="true" />
+                <element signature="e#2692#2693#0" expanded="true" />
+                <element signature="e#2728#2729#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HarmonicSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GradleTest/src/main/java/com/vdabmao2018/iterations5_3/HarmonicSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GradleTest/src/main/java/com/vdabmao2018/lessen/les5/beehive/Bee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GradleTest/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GradleTest/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IsPrime.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GradleTest/src/main/java/com/vdabmao2018/iterations5_3/IsPrime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="/usr/local/Cellar/gradle/4.7/libexec" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.7" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="GradleTest" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="GradleTest" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'GradleTest'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'GradleTest'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'GradleTest'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'GradleTest'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'GradleTest'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'GradleTest'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'GradleTest'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'GradleTest'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'GradleTest'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1529415316000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3933437314" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="3188797165" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="GradleTest" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-logging-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-wrapper-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-runtime-api-info-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-native-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-process-services-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-kotlin-dsl-tooling-builders-0.16.3.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-build-cache-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-core-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/groovy-all-2.4.12.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-model-core-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-base-services-groovy-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/ant-launcher-1.9.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-installation-beacon-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/ant-1.9.9.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-launcher-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-jvm-services-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-messaging-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-build-option-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-base-services-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-persistent-cache-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-docs-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-cli-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-tooling-api-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-kotlin-dsl-tooling-models-0.16.3.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-core-api-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-model-groovy-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-resources-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/gradle-kotlin-dsl-0.16.3.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-plugin-use-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-announce-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-tooling-api-builders-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-ide-play-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-language-scala-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-javascript-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-version-control-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-language-native-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-build-comparison-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-plugins-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-jacoco-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-platform-native-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-ide-native-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-diagnostics-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-plugin-development-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-workers-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-build-cache-http-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-testing-native-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-dependency-management-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-composite-builds-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-testing-junit-platform-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-publish-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-ear-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-language-jvm-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-platform-base-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-resources-gcs-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-ide-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-platform-play-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-resources-http-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-scala-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-language-java-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-language-groovy-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-osgi-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-reporting-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-antlr-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-code-quality-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-resources-s3-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-signing-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-resources-sftp-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-ivy-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-test-kit-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-build-init-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-testing-jvm-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-testing-base-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-platform-jvm-4.7.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="/usr/local/Cellar/gradle/4.7/libexec/lib/plugins/gradle-maven-4.7.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/TestPrimes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vdabmao2018/lessen/les11/Fraction.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestFraction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vdabmao2018/lessen/les1/Bank.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/vdabmao2018/lessen/les11/TestPrimes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/vdabmao2018/lessen/les11/TestFraction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vdabmao2018/iterations5_3/IsPrime.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GradleTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="GradleTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="GradleTest" type="462c0819:PsiDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="GradleTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="GradleTest" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.vdabmao2018.lessen.les11" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/GradleTest" />
+      <recent name="$PROJECT_DIR$/GradleTest/src" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HarmonicSum">
+    <configuration name="HarmonicSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vdabmao2018.iterations5_3.HarmonicSum" />
+      <module name="Desktop-GradleTest_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vdabmao2018.iterations5_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="IsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vdabmao2018.iterations5_3.IsPrime" />
+      <module name="Desktop-GradleTest_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vdabmao2018.iterations5_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="build (1)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="GradleTest" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/build.gradle" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+    </configuration>
+    <configuration name="build" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="GradleTest" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/build.gradle" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+    </configuration>
+    <configuration name="TestFraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Desktop-GradleTest_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vdabmao2018.lessen.les11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.vdabmao2018.lessen.les11" />
+      <option name="MAIN_CLASS_NAME" value="com.vdabmao2018.lessen.les11.TestFraction" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Groovy.build" />
+      <item itemvalue="Groovy.build (1)" />
+      <item itemvalue="JUnit.TestFraction" />
+      <item itemvalue="Application.IsPrime" />
+      <item itemvalue="Application.HarmonicSum" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HarmonicSum" />
+        <item itemvalue="Application.IsPrime" />
+        <item itemvalue="JUnit.TestFraction" />
+        <item itemvalue="Groovy.build (1)" />
+        <item itemvalue="Groovy.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01553959-496d-4cbf-ac93-54a46c70a2a9" name="Default" comment="" />
+      <created>1529399775884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529399775884</updated>
+    </task>
+    <task id="LOCAL-00001" summary="firstCommit">
+      <created>1529403490141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529403490141</updated>
+    </task>
+    <task id="LOCAL-00002" summary="firstCommit">
+      <created>1529413892104</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529413892104</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestFraction - 2018.06.19 at 12h 35m 19s.xml">
+      <configuration name="TestFraction" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.3293461" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50039715" side_tool="true" visible="true" weight="0.3025641" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960285" weight="0.3025641" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124305" />
+      <window_info anchor="bottom" id="Build" weight="0.3293461" />
+      <window_info anchor="right" id="Gradle" weight="0.3293461" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.3293461" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.3025641" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.124305" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Build" order="3" weight="0.3293461" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.3293461" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firstCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="firstCommit" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GradleTest/src/main/java/com/vdabmao2018/superClassExperiment/wowClasses/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradleTest/src/main/java/com/vdabmao2018/lessen/les5/beehive/Beehive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradleTest/src/main/java/com/vdabmao2018/lessen/les1/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradleTest/test/java/com/vdabmao2018/lessen/les11/TestPrimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradleTest/test/java/com/vdabmao2018/lessen/les11/TestFraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradleTest/src/main/java/com/vdabmao2018/iterations5_3/IsPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradleTest/src/main/java/com/vdabmao2018/lessen/les5/beehive/Bee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradleTest/src/main/java/com/vdabmao2018/lessen/les11/Fraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="126" column="28" selection-start-line="126" selection-start-column="28" selection-end-line="126" selection-end-column="28" />
+          <folding>
+            <element signature="e#2515#2516#0" expanded="true" />
+            <element signature="e#2556#2557#0" expanded="true" />
+            <element signature="e#2592#2593#0" expanded="true" />
+            <element signature="e#2622#2623#0" expanded="true" />
+            <element signature="e#2651#2652#0" expanded="true" />
+            <element signature="e#2692#2693#0" expanded="true" />
+            <element signature="e#2728#2729#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradleTest/src/main/java/com/vdabmao2018/iterations5_3/HarmonicSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradleTest/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GradleTest/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GradleTest_test|GradleTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

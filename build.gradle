@@ -1,0 +1,22 @@
+apply plugin: 'java'
+//dit is in Groovy geschreven
+
+
+
+apply plugin: 'application'
+
+mainClassName = 'com.vdabmao2018.iterations5_3.IsPrime'
+
+run{
+    standardInput = System.in
+}
+
+repositories {   //gaat de marketplace selecteren waar de library wordt opgehaald => repository
+    mavenCentral()
+}
+
+//dependencies => het project is afhankelijk van wat binnen de accolades zit
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.vdabmao2018.lessen.les11.TestPrimes" tests="4" skipped="4" failures="0" errors="0" timestamp="2018-06-19T12:31:03" hostname="iMac-van-VdabAdmin.local" time="0.001">
+  <properties/>
+  <testcase name="NegativeNumbersAreNotPrimes" classname="com.vdabmao2018.lessen.les11.TestPrimes" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="primeNumberReturnsTrueIfValueIsNotPrime" classname="com.vdabmao2018.lessen.les11.TestPrimes" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="OneIsNotAPrime" classname="com.vdabmao2018.lessen.les11.TestPrimes" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="primeNumberReturnsTrueIfValueIsPrime" classname="com.vdabmao2018.lessen.les11.TestPrimes" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
