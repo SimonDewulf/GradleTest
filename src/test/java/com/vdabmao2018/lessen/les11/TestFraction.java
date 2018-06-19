@@ -1,6 +1,6 @@
-package test.java.com.vdabmao2018.lessen.les11;
+package com.vdabmao2018.lessen.les11;
 
-import com.vdabmao2018.lessen.les11.Fraction;
+import main.java.com.vdabmao2018.lessen.les11.Fraction;
 import org.junit.*;
 
 public class TestFraction {

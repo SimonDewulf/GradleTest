@@ -10,8 +10,12 @@ mainClassName = 'com.vdabmao2018.iterations5_3.IsPrime'
 run{
     standardInput = System.in
 }
+//gaat de marketplace selecteren waar de library wordt opgehaald => repository
 
-repositories {   //gaat de marketplace selecteren waar de library wordt opgehaald => repository
+
+
+
+repositories {
     mavenCentral()
 }
 

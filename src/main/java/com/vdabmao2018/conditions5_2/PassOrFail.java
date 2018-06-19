@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.conditions5_2;
+package com.vdabmao2018.conditions5_2;
 
 public class PassOrFail {
     public static void main(String[] args) {
