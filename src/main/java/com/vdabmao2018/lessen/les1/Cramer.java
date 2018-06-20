@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.lessen.les1;
+package com.vdabmao2018.lessen.les1;
 
 import java.text.DecimalFormat;
 

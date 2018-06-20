@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.lessen.les5.beehive;
+package com.vdabmao2018.lessen.les5.beehive;
 
 public class Worker extends Bee {
     //elke Worker heeft een capacity en een load

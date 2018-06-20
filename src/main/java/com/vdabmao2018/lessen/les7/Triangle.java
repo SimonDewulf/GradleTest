@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.lessen.les7;
+package com.vdabmao2018.lessen.les7;
 
 public class Triangle extends Shape {
     private double base;

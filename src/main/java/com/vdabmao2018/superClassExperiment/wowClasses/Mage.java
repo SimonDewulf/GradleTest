@@ -1,6 +1,6 @@
-package main.java.com.vdabmao2018.superClassExperiment.wowClasses;
+package com.vdabmao2018.superClassExperiment.wowClasses;
 
-public class Mage implements java.lang.Class {
+public class Mage implements Class {
     private String name;
     private Race race;
     private MageAbilities[] mageSpec;

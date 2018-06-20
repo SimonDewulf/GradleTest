@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.lessen.les9;
+package com.vdabmao2018.lessen.les9;
 
 import java.text.DecimalFormat;
 import java.text.ParseException;

@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.lessen.les11;
+package com.vdabmao2018.lessen.les11;
 
 public class Primes{
         public static boolean isPrime(int n) {

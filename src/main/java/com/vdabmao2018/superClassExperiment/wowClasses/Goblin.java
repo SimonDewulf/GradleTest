@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.superClassExperiment.wowClasses;
+package com.vdabmao2018.superClassExperiment.wowClasses;
 
 public class Goblin extends Race {
     public Goblin() {

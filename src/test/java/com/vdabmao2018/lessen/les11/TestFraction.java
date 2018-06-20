@@ -1,6 +1,5 @@
 package com.vdabmao2018.lessen.les11;
 
-import main.java.com.vdabmao2018.lessen.les11.Fraction;
 import org.junit.*;
 
 public class TestFraction {
@@ -52,7 +51,7 @@ public class TestFraction {
      @Test
      public void testSubtractFraction(){
          Fraction a = new Fraction(5,13);
-         Fraction b = new Fraction(6,3);
+         Fraction b = new Fraction(5,3);
 
          Fraction c = a.subtractFraction(b);
 

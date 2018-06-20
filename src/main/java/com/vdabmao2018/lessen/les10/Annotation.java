@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.lessen.les10;
+package com.vdabmao2018.lessen.les10;
 
 import java.util.Date;
 

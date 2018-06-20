@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.lessen.les11;
+package com.vdabmao2018.lessen.les11;
 
 import java.util.Scanner;
 import static java.lang.Math.*;

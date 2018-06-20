@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.lessen.les8;
+package com.vdabmao2018.lessen.les8;
 
 public class Airplane extends Transport {
 

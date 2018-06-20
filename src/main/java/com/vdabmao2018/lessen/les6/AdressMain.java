@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.lessen.les6;
+package com.vdabmao2018.lessen.les6;
 
 import com.vdabmao2018.lessen.les5.beehive.Worker;
 

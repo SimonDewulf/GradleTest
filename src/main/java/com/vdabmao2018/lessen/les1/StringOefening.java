@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.lessen.les1;
+package com.vdabmao2018.lessen.les1;
 
 public class StringOefening {
     public static void main(String[] args) {

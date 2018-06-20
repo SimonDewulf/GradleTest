@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.lessen.les4;
+package com.vdabmao2018.lessen.les4;
 
 import java.util.ArrayList;
 import java.util.Arrays;

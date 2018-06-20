@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.lessen.les7.interfaceSpaceShip;
+package com.vdabmao2018.lessen.les7.interfaceSpaceShip;
 
 
 import java.sql.SQLOutput;

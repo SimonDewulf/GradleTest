@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.lessen.les4;
+package com.vdabmao2018.lessen.les4;
 
 public class GeometricalVector {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.lessen.les9;
+package com.vdabmao2018.lessen.les9;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

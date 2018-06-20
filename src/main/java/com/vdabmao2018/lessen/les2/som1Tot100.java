@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.lessen.les2;
+package com.vdabmao2018.lessen.les2;
 
 public class som1Tot100 {
 

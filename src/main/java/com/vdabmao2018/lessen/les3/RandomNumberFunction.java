@@ -1,4 +1,4 @@
-package main.java.com.vdabmao2018.lessen.les3;
+package com.vdabmao2018.lessen.les3;
 
 public class RandomNumberFunction {
 
