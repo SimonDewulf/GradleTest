@@ -24,7 +24,7 @@ public class TestFraction {
 
     }
 
-    @Test   @Ignore
+    @Test
     public void testSimplifyBy3(){
         Fraction a = new Fraction(5, 45);
         Fraction b = a.simplify();

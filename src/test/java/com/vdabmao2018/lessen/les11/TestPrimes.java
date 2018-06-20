@@ -1,6 +1,6 @@
 package com.vdabmao2018.lessen.les11;
 
-import main.java.com.vdabmao2018.lessen.les11.Primes;
+import com.vdabmao2018.lessen.les11.Primes;
 import org.junit.Assert;
 import org.junit.Ignore;
 import org.junit.Test;
